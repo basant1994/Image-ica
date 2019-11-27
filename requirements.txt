@@ -1,0 +1,4 @@
+PyQt%
+numpy
+pycryptodome
+Pillow
