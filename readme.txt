@@ -53,6 +53,6 @@ Use this command to launch the photo editor. You can use the GUI provided for wa
 
 Anand Bhararia - 193050077 - Features Development & Documentation 
 
-Basant Kumar Bhala - 19305R002 - User Interface & User Experience
+Basant Kumar Bhala - 19305R006 - Feature Development & Optimisation
 
-Rohit Kumar Singh - 193050069 - Feature Development & Optimisation
+Rohit Kumar Singh - 193050069 - User Interface & User Experience
