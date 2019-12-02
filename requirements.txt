@@ -1,4 +1,4 @@
-PyQt%
+PyQt5
 numpy
 pycryptodome
 Pillow
